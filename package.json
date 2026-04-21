@@ -1,0 +1,17 @@
+{
+  "name": "tts-assistant",
+  "version": "1.0.0",
+  "description": "Text-to-Speech Assistant using Node.js, Express, and Google Cloud TTS",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^5.0.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

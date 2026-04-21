@@ -1,0 +1,6 @@
+node_modules/
+output/
+*.mp3
+.env
+*.json
+!package.json
