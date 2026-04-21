@@ -12,7 +12,7 @@
 |---|---|
 | **Project Name** | tts-assistant |
 | **Tech Stack** | Node.js, Express, Google Cloud TTS |
-| **Repository URL** | `https://github.com/<your-username>/tts-assistant` |
+| **Repository URL** | `https://github.com/<dhruv42-netizen>/tts-assistant` |
 | **Default Branch** | `main` |
 | **Visibility** | Private |
 
